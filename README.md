@@ -1,45 +1,27 @@
 ### hi 👋
 
-                                                                                
-                                                                                
-                                                                                
-                                 ,@@@@@@@@@@@@@@@@@@@                           
-             @@@@@@@@@,      @@@@@@@@@@@@@@@@@@@@@@@@@@@@&                      
-            (@*       #@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@                   
-             @@        @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%  @@@@@                 
-              @@     @@@@@@&    .@@@@@@@@@@@@@@@@@@@@       @@@@@               
-               @@@  @@@@*           @@@@@@@@@@@@@@          @@@@@@@             
-                .@((@@@@@@@@@@        @@@@@@@@@@         @&   /@@@@@            
-                     #@@@@@@@@@@@        @@@@@@@@     %@        @@@@@           
-                 @@@   .@@@@@@@@@@            &@@@@@@          @@@@@@           
-                 @@@@@    @@@@@@@@@#             @@@(       @@@@@@@@@@          
-                 @@@@@@@    @@@@@@@@@              @@@%  /@/     @@@@@          
-                 @@@@@@@@@%    @@@@@@@@             @@@@@         @@@@          
-                 @@@@@@@@@@@@    #@@@@@@             @@@@       @@@@@           
-                  @@@@@@@@@@@@@&    @@@              @@@@@@@#@@@@@@@@           
-                  ,@@@@@@@@@@@@@@@                   @@@@@@@@@@@@@@@            
-                    @@@@@@@@@@@@@@                   @@@@@@@@@@@@@@             
-                     @@@@@@@@@@@                     @@@@@@@@@@@@@@             
-                       @@@@@@                       @@@@@@@@@@@*  @@            
-                         &#                         &@@@@@@@@      @@*          
-                                               @@@@     @@          &@.         
-                                            .@@@@@@@@  &@@@@&        @@         
-                                                             @@@@@@@@@          
-                                                                                
-                                                                                
-            @@@@@@@@@@@   .@@@@@@@@@@.   @@@@@   @@@@  @@@  @@@@@@@@@@@         
-            @@@@    @@@@ (@@@@    &@@@&  @@@@@@@ @@@@  @@,     @@@@%            
-            @@@@    @@@@ /@@@@    @@@@#  @@@% @@@@@@@          @@@@%            
-            @@@@@@@@@@@    @@@@@@@@@@    @@@&  .@@@@@          @@@@%            
-                                                                                
-            @@@@@@@@@@@    @@@@@     ,@@@@#   @@@@  &@@@#   @@@@@@@@@@          
-            @@@@    @@@%  @@@.@@@    ,@@@@@@. @@@@  &@@@# /@@@@    @@@@         
-            @@@@@@@@@@*  @@@  &@@@   ,@@@ %@@@@@@@  &@@@# &@@@(                 
-            @@@@       .@@@@@@@@@@@  ,@@@(  @@@@@@  &@@@#  @@@@@@@@@@@          
-                                                                ,*              
-                                                                                
-                                                                                
-                                                                                
-                                                                                
-                                                                                
-                                                                                
+
+    MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+    MMMMMMMMMMMMMMMMWNNNNNNNNNNWWMMMMMMMMMMMMMWNXK00KXWWMMMMMMMWWNNNNNWMMMMMMWNNNNNWMMWNNNNWMWNNNNNNNNNNNNNNNNWMMMMMMMMMMMMM
+    MMMMMMMMMMMMMMMM0:'''''''',,:coOXWMMMMMNOo:'......,:d0WMMMMOl;'''':kNMMMXl'''':OMXl'''cKNo''''''''''''''',dNMMMMMMMMMMMM
+    MMMMMMMMMMMMMMMMk.              'dNMMNk,.     ..     .c0WMMx,.     .lKWMK,    .xMK;   .OX:                cNMMMMMMMMMMMM
+    MMMMMMMMMMMMMMMMk.    .oOOxl.     lNWd.    .lOK0k:.    'OMMx,.       ,kWK;    .kMN0l. ;KN0dddd:.    .:dddd0WMMMMMMMMMMMM
+    MMMMMMMMMMMMMMMMk.    .kMMMWx.    .O0'    .dWMMMMX:     cXMx,.        .lO:    .kMNx,.;OWMMMMMMO.    .OMMMMMMMMMMMMMMMMMM
+    MMMMMMMMMMMMMMMMk.    .kMMMMO.    .kk.    .kMMMMMWl     ;KMx,.    ,;    '.    .kMNOk0NMMMMMMMMO.    .OMMMMMMMMMMMMMMMMMM
+    MMMMMMMMMMMMMMMMk.    .kMMWXl     ,0K;     lXMMMWK;     lNWx;.    :0d.        .kMMMMMMMMMMMMMMO.    .OMMMMMMMMMMMMMMMMMM
+    MMMMMMMMMMMMMMMMk.    .cdol'     .kWWk'    .;dkxo,     :KWMk,.    :XW0:.      .kMMMMMMMMMMMMMMO.    .OMMMMMMMMMMMMMMMMMM
+    MMMMMMMMMMMMMMMMk.             .l0WMMW0c.            'dXMMMx,.    ;XMMNd.     .kMMMMMMMMMMMMMMO.    .OMMMMMMMMMMMMMMMMMM
+    MMMMMMMMMMMMMMMMKoccccccccclldOXWMMMMMMWKxl:;,'',;coONMMMMM0doccccxNMMMW0l::cco0MMMMMMMMMMMMMMKoccccoKMMMMMMMMMMMMMMMMMM
+    MMMMMMMMMMMMMMMMN0OOOOOOOOOO0XNWMMMMMMWX0OOOOkKWWWWMMMWKOOOOO0XWMWWWX0OOOOXWMWKOOOOOXWMMMMMWX0kddddxOKNWMMMMMMMMMMMMMMMM
+    MMMMMMMMMMMMMMMMO,          ..,ckNMMMMK:.    .lXMMMMMMK;    ..;OWMMWd.   .oNMNl.   .lNMMWXd:..       .,o0WMMMMMMMMMMMMMM
+    MMMMMMMMMMMMMMMMO.     .''..     cXMMXc       .oNMMMMMK,       .dXMWl     lNMNc     cNMWk'     ';;,.    .xNMMMMMMMMMMMMM
+    MMMMMMMMMMMMMMMMO.    .xNNXk'    .kMNo.   ..   .xWMMMMK,         ;0No     lNMNc     cNWk.    .dXWWNO;....,0MMMMMMMMMMMMM
+    MMMMMMMMMMMMMMMMO.    .cxxd:.    '0Wx.   .do.   'OWMMMK,          .ol.    lNMNc     cNNc     :XMMMMWXK000KNMMMMMMMMMMMMM
+    MMMMMMMMMMMMMMMMO.             .;OWO'    lNK;    ;0MMM0,     'o;    .     lNMNc     cNNc     cNMMMMMNXXXXXNMMMMMMMMMMMMM
+    MMMMMMMMMMMMMMMMO.     '::::cld0NWK;     ,cc'     cXMMK,     .OXo.        lNMNc     cNWx.    'OWWMW0c....,OWMMMMMMMMMMMM
+    MMMMMMMMMMMMMMMMO.    .kMMMWMMMMMXc                oNMK,     .OMWO,       lNMNc     cNMNd.    .;cc:.    .lXMMMMMMMMMMMMM
+    MMMMMMMMMMMMMMMMO.    .kMMMMMMMMNd.   .:kkkkkx,    .xW0,     .OMMWXl.     lNMNc     cNMMW0l'.         .:kNMMMMMMMMMMMMMM
+    MMMMMMMMMMMMMMMMNkddddkXMMMMMMMMWOdddxkXMMMMMWKxddxx0WNOdddddkNMMMMN0xdddx0WMW0xdddx0WMMMMWX0kollllodOXWMMMMMMMMMMMMMMMM
+    MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+
+
